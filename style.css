@@ -1,7 +1,11 @@
-.Titulo{
-    color: aliceblue;
-    background: linear-gradient(to right, #E6030A, #440f0f, #FF0000) 
+.titulo{
+    background-color: rgb(238, 223, 223);
+    color:rgb(24, 28, 31);
     width: auto;
     display: block;
     justify-content: center;
+
+    
+
+}
 }
