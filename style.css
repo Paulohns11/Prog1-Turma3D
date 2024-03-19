@@ -1,6 +1,6 @@
 .Titulo{
     color: aliceblue;
-    background-color: black;
+    background: linear-gradient(to right, #E6030A, #440f0f, #FF0000) 
     width: auto;
     display: block;
     justify-content: center;
